@@ -6,5 +6,4 @@ Super Lage (38GB) Space Satellite Image Daset - https://spacenet.ai/sn6-challeng
 # Python Libraries
 Segmentation Model for Loss Metrics: https://github.com/qubvel/segmentation_models <br />
 GitHub Project (Another) - https://github.com/ayushdabra/dubai-satellite-imagery-segmentation <br />
-Model Visualization: https://github.com/lutzroeder/netron <br />
 Activation and Gradient Output- https://github.com/philipperemy/keract
