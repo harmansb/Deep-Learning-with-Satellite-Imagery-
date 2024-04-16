@@ -1,6 +1,5 @@
 # Deep-Learning-with-Satellite-Imagery-
 # Resources
-Slide Deck used during Workshop (Please see the files in same folder) <br />
 Dubai Segmentation Dataset Kaggle - https://www.kaggle.com/datasets/humansintheloop/semantic-segmentation-of-aerial-imagery <br />
 Dubai Segmentation Dataset Home: https://humansintheloop.org/resources/datasets/semantic-segmentation-dataset-2/ <br />
 Super Lage (38GB) Space Satellite Image Daset - https://spacenet.ai/sn6-challenge/ <br />
